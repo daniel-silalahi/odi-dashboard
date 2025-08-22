@@ -1,15 +1,11 @@
 # Main App Framework
-streamlit==1.48.1
-
+streamlit
 # Data Handling
-pandas==2.2.2
-geopandas==0.14.4
+pandas
+geopandas
+matplotlib
+seaborn
+pycountry
+adjustText
+streamlit-option-menu
 
-# Plotting
-matplotlib==3.9.0
-seaborn==0.13.2
-
-# Utilities
-pycountry==24.6.1
-adjustText==1.1.1
-streamlit-option-menu==0.3.12
