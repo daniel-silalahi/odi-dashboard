@@ -1,0 +1,15 @@
+[theme]
+# The teal color for interactive elements
+primaryColor="#42b9b4"
+
+# A clean white background
+backgroundColor="#FFFFFF"
+
+# A very light grey for widget backgrounds
+secondaryBackgroundColor="#F0F2F6"
+
+# The dark grey for all text
+textColor="#747474"
+
+# Use a standard sans-serif font
+font="sans serif"
